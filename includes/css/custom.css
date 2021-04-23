@@ -1,0 +1,17 @@
+
+#footer p {
+  text-transform: capitalize;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: bolder;
+}
+
+#footer hr {
+  font-weight: bolder;
+  padding-top: 10px;
+  width: 80%;
+  height: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+}
