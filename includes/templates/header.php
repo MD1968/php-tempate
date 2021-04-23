@@ -11,5 +11,5 @@
     <!-- Custom Styles -->
     <link href="includes/css/custom.css" rel="stylesheet">
 
-    <title>Staff Details</title>
+    <title>PHP template</title>
   </head>
